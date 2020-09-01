@@ -1,6 +1,11 @@
 def mario
+<<<<<<< HEAD
   phrase = "It's-a me, Mario!"
   puts phrase 
+=======
+  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+  puts phrase #{status}
+>>>>>>> d9cfc5ef89f8c310b00273d5f5af1304707ac8a5
 end
 
 def toadstool
